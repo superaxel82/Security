@@ -1,0 +1,13 @@
+# CODEOWNERS file
+# Define who owns specific files
+
+# Asignar responsabilidad del archivo HTML
+/path/to/archivo.html @usuario1 @usuario2
+
+
+# CODEOWNERS file
+/index.html @tu_usuario
+
+
+
+

@@ -1,0 +1,6 @@
+# OWNERS file
+# Specify users responsible for specific files
+
+# Responsables del archivo index.html
+usuario1@example.com
+usuario2@example.com
